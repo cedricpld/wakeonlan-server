@@ -25,7 +25,6 @@ HTML_TEMPLATE = """
         <form action="/wake" method="post">
             <button class="w-full py-3 px-8 bg-green-600 hover:bg-green-700 rounded-lg font-semibold">Wake</button>
         </form>
-        <footer class="text-xs text-gray-400 mt-4">Powered by Flask • Julien's Panel</footer>
     </div>
 </body>
 </html>
